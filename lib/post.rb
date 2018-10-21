@@ -16,5 +16,6 @@ class Post
       return self.author.name
     else
       return nil
+    end
   end
 end
